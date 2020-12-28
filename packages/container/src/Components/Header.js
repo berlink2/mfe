@@ -82,6 +82,7 @@ export default function Header({ isSignedIn, onSignOut }) {
             App
           </Typography>
           <Button
+
             color="primary"
             variant="outlined"
             className={classes.link}
